@@ -10,6 +10,8 @@ To run the example you need a service account key and secret as well as the proj
 
 The example uses only classes that are shipped with the Java JDK. JDK 8 was used when created.
 
+Simple IntelliJ IDEA project is included.
+
 ### Setup
 You need to aquire and enter projectId, serviceAccountKey and serviceAccountSecret in TouchTrigger.java. The service account must have at least Developer rights (developer or admin).
 
